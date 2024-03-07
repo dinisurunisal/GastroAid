@@ -18,9 +18,14 @@ all technical backgrounds.
 - **Python Backend**: Robust and scalable backend architecture
 developed with Python, ensuring efficient processing and analysis of
 endoscopic image data.
-- **Dataset Compatibility**: Tested with Kvasir and Kvasir-Capsule
+- **Dataset Compatibility**: Mainly used HyperKvasir dataset and an initial F1 score of 0.79 and final F1-score of 
+0.84 was obtained for the proposed model providing 5% overall improvement. Tested with Kvasir and Kvasir-Capsule
 datasets, demonstrating remarkable F1 scores of 0.82 and 0.93,
 respectively, and an overall improvement in model performance.
+
+### Prototype Feature Diagram
+
+![alt text](https://github.com/dinisurunisal/GastroAid/blob/main/images/prototype_feature_dig.jpg?raw=true)
 
 ## Getting Started
 
