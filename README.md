@@ -29,12 +29,13 @@ respectively, and an overall improvement in model performance.
 - Node.js and npm
 - Python 3.8 or higher
 - Required Python packages: `tensorflow`, `keras`, `flask`
+- Angular CLI
 
 ### Installation
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourrepository/GastroAid.git
+git clone https://github.com/dinisurunisal/GastroAid.git
 ```
 2. Install frontend dependencies:
 ```
