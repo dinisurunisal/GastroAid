@@ -25,7 +25,7 @@ respectively, and an overall improvement in model performance.
 
 ### Prototype Feature Diagram
 
-![alt text](https://github.com/dinisurunisal/GastroAid/blob/main/images/prototype_feature_dig.jpg?raw=true)
+![alt text](https://github.com/dinisurunisal/GastroAid/blob/main/Images/prototype_feature_dig.jpg?raw=true)
 
 ## Getting Started
 
