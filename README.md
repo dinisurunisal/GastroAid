@@ -70,6 +70,16 @@ Upload gastrointestinal tract images through the web interface. The
 platform processes the images, applying the semi-supervised learning
 model for classification, and displays the diagnosis results.
 
+## Implementation
+
+### Proposed Approach
+
+![alt text](https://github.com/dinisurunisal/GastroAid/blob/main/Images/proposed_architecture.png?raw=true)
+
+### Model Defining
+
+![alt text](https://github.com/dinisurunisal/GastroAid/blob/main/Images/hybrid_ensemble_model_structure.png?raw=true)
+
 ## Acknowledgements
 
 Special thanks to the advisors, contributors, and institutions that
